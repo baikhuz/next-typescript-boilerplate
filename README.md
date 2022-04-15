@@ -1,12 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Getting Started
 
-First, run the development server:
+this is a next.js boilerplate bootstrapped with typescript and material-ui.
+
+the repo also includes eslint, prettier and husky for error checking, code formatting and pre-commit linting - make sure your IDE has eslint and prettier installed to be able to make use of these features
+
+clone the repo and install deps and husky config:
 
 ```bash
-npm run dev
-# or
+yarn install
+yarn husky install
+```
+
+Run the development server:
+
+```bash
 yarn dev
 ```
 
