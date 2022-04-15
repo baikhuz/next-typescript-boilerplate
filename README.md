@@ -1,6 +1,6 @@
 ## Getting Started
 
-this is a next.js boilerplate bootstrapped with typescript and material-ui.
+this is a next.js boilerplate bootstrapped with typescript.
 
 the repo also includes eslint, prettier and husky for error checking, code formatting and pre-commit linting - make sure your IDE has eslint and prettier installed to be able to make use of these features
 
